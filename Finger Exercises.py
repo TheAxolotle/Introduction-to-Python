@@ -111,13 +111,13 @@
 ## Finger exercise: Let s be a string that contains a sequence of decimal numbers separated by commas,
 ## e.g., s = '1.23,2.4,3.123'. Write a program that prints the sum of the numbers in s.
 
-# s = 1.2, 1.3, 1.2, 1.5, 1.6, 1.4
-# x = 0
-#
-# for i in s:
-# 	x = x + i
-#
-# print(x)
+s = 1.2, 1.3, 1.2, 1.5, 1.6, 1.4
+x = 0
+
+for i in s:
+	x = x + i
+
+print(x)
 
 
 '''Write a program that asks the user to input 10 integers, and
